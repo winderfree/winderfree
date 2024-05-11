@@ -1,10 +1,10 @@
-### Hi and God bless... 
+# Hello, God bless... 
 <!--
 **winderfree/winderfree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 "Tener esto en cuenta..."
 -->
-<h3>I'm Juan S. Casado, and I will love to work with you!</h3>
+<h3>I am a Web Developer with experience in cutting-edge technologies such as Django, Angular, and React. I am motivated by the opportunity to collaborate in team.</h3>
 
 - 🌱 I’m currently learning things that i realy like, happy to be alive.
 - 👯 looking to collaborate on any projects ...
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 <h1>Web Sites</h1>
 <h2>Portafolio:</h2>
 <h3>https://winderfree.github.io/portafolio-web/</h3>
+<h2>Blog:</h2>
+<h3>https://juans-blog.web.app/</h3>
